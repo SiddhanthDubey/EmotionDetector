@@ -24,20 +24,17 @@ Follow these steps to get started with the real-time emotion detector project:
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/your-username/emotion-detector.git
-cd emotion-detector
+    bash git clone https://github.com/your-username/emotion-detector.git
+    
+    cd emotion-detector
 
 Install the dependencies:
 
-bash
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Download the dataset:
 
-Visit Face Expression Recognition Dataset on Kaggle and download the dataset. Extract the contents and place them in a folder named dataset in the project directory.
+Visit Face Expression Recognition Dataset on Kaggle and download the dataset. Extract the contents and place them in a folder named images in the project directory.
 
 Train the model:
 
@@ -46,8 +43,6 @@ Open and run the train_model.ipynb notebook to train the emotion detection model
 Run the real-time emotion detector:
 
 Execute the following command to run the real-time emotion detection script:
-
-bash
 
     python realtimedetection.py
 
