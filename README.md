@@ -1,7 +1,12 @@
 # EmotionDetector
 # Real-Time Emotion Detector Project
 
-This Git repository contains code and resources for a real-time emotion detector project. The project utilizes a Convolutional Neural Network (CNN) trained on the Face Expression Recognition Dataset available on Kaggle. The primary components of this project include:
+This Git repository contains code and resources for a real-time emotion detector project. The project utilizes a Convolutional Neural Network (CNN) trained on the Face Expression Recognition Dataset available on Kaggle. 
+
+Dataset Link - https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+
+
+The primary components of this project include:
 
     Requirements.txt: This file lists all the dependencies and versions required to run the code successfully. To install the dependencies, use the following command:
 
