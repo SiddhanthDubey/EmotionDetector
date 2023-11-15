@@ -22,7 +22,7 @@ Follow these steps to get started with the real-time emotion detector project:
 
     Clone the repository:
 
-    bash git clone https://github.com/your-username/emotion-detector.git
+    git clone https://github.com/your-username/emotion-detector.git
     
     cd emotion-detector
 
