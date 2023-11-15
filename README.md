@@ -10,8 +10,6 @@ The primary components of this project include:
 
     Requirements.txt: This file lists all the dependencies and versions required to run the code successfully. To install the dependencies, use the following command:
 
-    bash
-
     pip install -r requirements.txt
 
     Notebook File (train_model.ipynb): The Jupyter Notebook file contains the code used to train the emotion detection model. It leverages a Convolutional Neural Network architecture and is designed to work with the specified dataset.
