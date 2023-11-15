@@ -20,11 +20,9 @@ Getting Started
 
 Follow these steps to get started with the real-time emotion detector project:
 
-    Clone the repository:
+Clone the repository:
 
-    git clone https://github.com/your-username/emotion-detector.git
-    
-    cd emotion-detector
+Use git clone command in git bash.
 
 Install the dependencies:
 
