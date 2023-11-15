@@ -13,8 +13,6 @@ This Git repository contains code and resources for a real-time emotion detector
 
     Python File (emotion_detector.py): This Python script allows real-time emotion detection using the trained model. It utilizes OpenCV to capture video frames, detect faces, and predict emotions on each frame.
 
-    OpenCV: The project relies on the OpenCV library to handle real-time video stream processing, face detection, and visualization of emotions.
-
 Getting Started
 
 Follow these steps to get started with the real-time emotion detector project:
@@ -46,7 +44,7 @@ Execute the following command to run the real-time emotion detection script:
 
 bash
 
-    python emotion_detector.py
+    python realtimedetection.py
 
     This will activate your webcam and display real-time emotion predictions.
 
